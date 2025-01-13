@@ -1,0 +1,22 @@
+.Titulo {
+    display: flex;
+    justify-content: center;
+    background: #074799;
+    margin: 10px;
+    color: white;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+}
+
+.Explicacion {
+    display: flex;
+    justify-content: center;
+
+}
